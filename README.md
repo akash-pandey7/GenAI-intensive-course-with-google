@@ -1,0 +1,1 @@
+# GenAI-intensive-course-with-google
