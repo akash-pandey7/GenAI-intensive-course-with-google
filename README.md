@@ -85,7 +85,7 @@ google-gen-ai-intensive-2025/
 │   └── notes.md                # Personal takeaways
 │
 ├── day5_mlops_for_gen_ai/
-│   ├── agent_starter_pack_review.md # Notes on the google/agent-starter-pack
+│   ├── agent_starter_pack_review.md # Notes on the goo.gle/agent-starter-pack
 │   └── notes.md                # Day 5 notes (no codelab)
 │
 ├── bonus_assignment/
@@ -130,6 +130,3 @@ This repository is licensed under the MIT License. See [LICENSE](https://www.goo
 -----
 
 **Happy learning\!** 🚀
-
-```
-```
